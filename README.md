@@ -1,0 +1,2 @@
+# Radarr_zh_CN_localization
+Radarr中文本地化的翻译
